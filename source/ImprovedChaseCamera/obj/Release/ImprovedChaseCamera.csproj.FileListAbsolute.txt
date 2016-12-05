@@ -1,0 +1,16 @@
+D:\Programmieren\Mods\KSP\ImprovedChaseCamera\ImprovedChaseCamera\ImprovedChaseCamera\obj\Release\ImprovedChaseCamera.csprojResolveAssemblyReference.cache
+D:\Programmieren\Mods\KSP\ImprovedChaseCamera\ImprovedChaseCamera\ImprovedChaseCamera\bin\Release\ImprovedChaseCamera.dll
+D:\Programmieren\Mods\KSP\ImprovedChaseCamera\ImprovedChaseCamera\ImprovedChaseCamera\bin\Release\ImprovedChaseCamera.pdb
+D:\Programmieren\Mods\KSP\ImprovedChaseCamera\ImprovedChaseCamera\ImprovedChaseCamera\bin\Release\Assembly-CSharp-firstpass.dll
+D:\Programmieren\Mods\KSP\ImprovedChaseCamera\ImprovedChaseCamera\ImprovedChaseCamera\bin\Release\Assembly-CSharp.dll
+D:\Programmieren\Mods\KSP\ImprovedChaseCamera\ImprovedChaseCamera\ImprovedChaseCamera\bin\Release\KSPAssets.dll
+D:\Programmieren\Mods\KSP\ImprovedChaseCamera\ImprovedChaseCamera\ImprovedChaseCamera\bin\Release\System.dll
+D:\Programmieren\Mods\KSP\ImprovedChaseCamera\ImprovedChaseCamera\ImprovedChaseCamera\bin\Release\UnityEngine.dll
+D:\Programmieren\Mods\KSP\ImprovedChaseCamera\ImprovedChaseCamera\ImprovedChaseCamera\bin\Release\TrackIRUnity.dll
+D:\Programmieren\Mods\KSP\ImprovedChaseCamera\ImprovedChaseCamera\ImprovedChaseCamera\bin\Release\UnityEngine.UI.dll
+D:\Programmieren\Mods\KSP\ImprovedChaseCamera\ImprovedChaseCamera\ImprovedChaseCamera\bin\Release\Mono.Cecil.dll
+D:\Programmieren\Mods\KSP\ImprovedChaseCamera\ImprovedChaseCamera\ImprovedChaseCamera\bin\Release\TDx.TDxInput.dll
+D:\Programmieren\Mods\KSP\ImprovedChaseCamera\ImprovedChaseCamera\ImprovedChaseCamera\bin\Release\Mono.Security.dll
+D:\Programmieren\Mods\KSP\ImprovedChaseCamera\ImprovedChaseCamera\ImprovedChaseCamera\bin\Release\UnityEngine.xml
+D:\Programmieren\Mods\KSP\ImprovedChaseCamera\ImprovedChaseCamera\ImprovedChaseCamera\obj\Release\ImprovedChaseCamera.dll
+D:\Programmieren\Mods\KSP\ImprovedChaseCamera\ImprovedChaseCamera\ImprovedChaseCamera\obj\Release\ImprovedChaseCamera.pdb
