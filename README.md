@@ -1,7 +1,3 @@
-# for KSP V1.3 use this Version:
-https://github.com/Nice2Bee/ImprovedChaseCamera-by-BahamutoD/tree/v1.3
-
-
 Mod by BahamutoD
 
 Mod Site: 
