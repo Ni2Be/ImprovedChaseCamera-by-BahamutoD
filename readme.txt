@@ -17,8 +17,8 @@ GPLv3
 
 
 
-**Will only work in camera mode FREE and LOCKED (Press "V" to change camera mode)
-Then press TAB to activate the mode**
+**Will only work in camera mode FREE and LOCKED (Press "V" to change camera mode)**
+**Then press TAB to activate the mode**
 
 
 
