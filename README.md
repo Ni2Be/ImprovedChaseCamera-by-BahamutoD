@@ -1,3 +1,7 @@
+# for KSP V1.3 use this Version:
+https://github.com/Nice2Bee/ImprovedChaseCamera-by-BahamutoD/tree/v1.3
+
+
 Mod by BahamutoD
 
 Mod Site: 
@@ -17,8 +21,8 @@ GPLv3
 
 
 
-# **Will only work in camera mode FREE and LOCKED (Press "V" to change camera mode)**
-# **Then press TAB to activate the mode**
+## Will only work in camera mode FREE and LOCKED (Press "V" to change camera mode)
+## Then press TAB to activate the mode
 
 
 
